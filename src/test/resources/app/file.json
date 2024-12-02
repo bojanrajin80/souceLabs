@@ -10,10 +10,6 @@
     "title": "PRODUCTS",
     "SLBTitle": "Sauce Labs Backpack",
     "SLBPrice": "$29.99"
-  },
-  "productsDetailsScreen": {
-    "SLBTitle": "Sauce Labs Backpack",
-    "SLBDescription" : "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.",
-    "SLBPrice": "$29.99"
   }
+
 }
