@@ -35,4 +35,5 @@ build/
 .vscode/
 
 ### Mac OS ###
-src/test/resources/app/
+
+!/src/test/resources/app/file.json
