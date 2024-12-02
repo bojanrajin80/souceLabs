@@ -5,11 +5,7 @@
     "validPassword": "secret_sauce",
     "invalidPassword": "invalidPassword",
     "loginErrorMessage": "Username and password do not match any user in this service."
-  },
-  "productsScreen": {
-    "title": "PRODUCTS",
-    "SLBTitle": "Sauce Labs Backpack",
-    "SLBPrice": "$29.99"
   }
+
 
 }
