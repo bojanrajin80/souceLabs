@@ -35,4 +35,4 @@ build/
 .vscode/
 
 ### Mac OS ###
-.DS_Store!/src/test/resources/app/
+/src/test/resources/app/
